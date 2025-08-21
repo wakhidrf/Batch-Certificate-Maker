@@ -1,4 +1,9 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
+/bin/
+
+/lib/
+
+/include/
 
 # Folders to ignore, but keep the folder itself
 # Create a .gitkeep file inside these folders so they're not empty
@@ -15,3 +20,4 @@
 data.csv.1
 data.csv.2
 output_gabungan.pdf
+pyvenv.cfg
