@@ -47,7 +47,7 @@ The project directory is organized as follows:
 ### Installation
 1.  Clone the repository and navigate into the project directory:
     ```bash
-    git clone [https://github.com/wakhidrf/Batch-Certificate-Maker](https://github.com/wakhidrf/Batch-Certificate-Maker)
+    git clone https://github.com/wakhidrf/Batch-Certificate-Maker
     cd Batch-Certificate-Maker
     ```
 2.  Install the required Python libraries:
