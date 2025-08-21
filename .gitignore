@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Folders to ignore, but keep the folder itself
+# Create a .gitkeep file inside these folders so they're not empty
+/input/*
+!/input/.gitkeep
+
+/font/*
+!/font/.gitkeep
+
+/output/*
+!/output/.gitkeep
+
+# Specific files to ignore
+data.csv.1
+data.csv.2
+output_gabungan.pdf
